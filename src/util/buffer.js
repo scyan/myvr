@@ -1,5 +1,4 @@
 module.exports={
-
 	initArrayBuffer:function(gl,data,num,type){
 		  // Create a buffer object
 	  var buffer = gl.createBuffer();
